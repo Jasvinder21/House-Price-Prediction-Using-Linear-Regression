@@ -1,5 +1,5 @@
 # Housing Price Prediction using Linear Regression
-                                                  ![image](https://github.com/user-attachments/assets/c9a56978-edce-4732-8fb4-31656fa8df6e)
+  ![image](https://github.com/user-attachments/assets/4ea9441d-8824-4bcb-8725-928da2eb6754)
 
 
 This repository contains a comprehensive analysis and prediction model for housing prices using Linear Regression. The dataset includes various features such as area, number of bedrooms, bathrooms, and amenities, which are used to predict the price of a house.
